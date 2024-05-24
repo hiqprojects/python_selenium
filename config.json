@@ -1,0 +1,11 @@
+{
+    "browser": "Firefox",
+    "url": "http://217.160.200.118/",
+    "user": "thomas.kolm",
+    "pw": "CRM2024#",
+    "submit": "bigbutton",
+    "title": "HiQ TestCRM",
+    "target_link": "SUITECRM DASHBOARD",
+    "text_loginerror": "You must specify a valid username and password.",
+    "target_loginerror": "error"
+}
